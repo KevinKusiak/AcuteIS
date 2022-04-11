@@ -1,3 +1,5 @@
+# SCHEDULED RELEASE DATE: MAY 15, 2022
+
 # Key Components
 - Atomic Predicate integration
 - Expanded node distribution model concerning sandboxed services
