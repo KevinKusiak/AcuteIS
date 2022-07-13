@@ -1,4 +1,4 @@
-# SCHEDULED RELEASE DATE: MAY 15, 2022
+# SCHEDULED RELEASE DATE: AUGUST 15, 2022
 
 # Key Components
 - Atomic Predicate integration
