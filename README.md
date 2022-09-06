@@ -1,4 +1,8 @@
-# SCHEDULED RELEASE DATE: AUGUST 15, 2022
+# SCHEDULED RELEASE DATE: September 15, 2022
+
+This project was initially made as a fork of the Kicom anti-virus and distributed as closed source. The aim of this repo is to make a version from scratch with some key upgrades/feature additions and obviously to make it open source!
+
+This is the first software deliverable of the AcuAngleSecurity company located at https://acuanglesecurity.com.
 
 # Key Components
 - Atomic Predicate integration
