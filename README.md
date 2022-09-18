@@ -52,7 +52,7 @@ This implementation can be scaled as much as desired, with no drastic impact on 
     - - - - - - | - - - - - - 
     - - - - - - y - - - - - - 
 
-Thist second model visualizes how services with multi-layer child process are treated. In this case, **y** represents the initial child process of the service, **&** represents the containerized execution state of the initial child process, and **x** represents the user interaction with the initial child process. 
+This second model visualizes how services with multi-layer child processes are treated. In this case, **y** represents the initial child process of the service, **&** represents the containerized execution state of the initial child process, and **x** represents the user interaction with the initial child process. 
 
 **a** and **b** are just the translations of **&** and **x**. **$** represents the containerized execution state of the second-layer child process. **o** represents the user interaction with the second-layer child process.
 
