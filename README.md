@@ -1,8 +1,4 @@
-# SCHEDULED RELEASE DATE: October 15, 2022
-
-This project was initially made as a fork of the Kicom anti-virus and distributed as closed source. The aim of this repo is to make a version from scratch with some key upgrades/feature additions and obviously to make it open source!
-
-This is the first software deliverable of the AcuAngleSecurity company located at https://acuanglesecurity.com.
+The aim of this repo is to make a high-level AV python client from scratch with some fun features
 
 # Key Components
 - Atomic Predicate integration
@@ -102,3 +98,5 @@ To demonstrate the results of the software security initiative and  progress ove
 - Time from design to launch to create a secure application
 - Number of applications that meet or exceed compliance requirements
 - Number of bugs in code that reach production
+
+This project was initially made as a fork of the Kicom anti-virus and distributed as closed source. 
